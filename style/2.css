@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@1,700&display=swap');
+p {
+	background-color: #00a804;
+	text-align: center;
+	margin: 10px;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 3px groove black;
+}
+body {
+	background-color: #006302;
+}
+.content {
+	margin: 10px;
+	max-height: 100%;
+	max-width: 100%;
+}
+.row {
+	display: flex;
+}
+.box {
+	padding: 10px; 
+	margin: 10px;
+	flex-grow: 1;
+	width: 100px;
+	background-color: #009103;
+	border: 3px groove black;
+}
+header {
+	background-color: #00a804;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+	display: inline-block;
+	height: 100%;
+	width: 1610px;
+	border-radius: 10px;
+	display: inline-block;
+	border: 3px groove black;
+}
+div {
+	border-radius: 10px;
+}
+.content {
+	width: 340px;
+	margin: 10px;
+}
+.col-1 {
+	flex-grow: 1;
+}
+.col-3 {
+	flex-grow: 3;
+}
+footer {
+	text-decoration: none;
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 20px;
+	color: #000000;
+	display: inline-block;
+	text-align: center;
+	border: 5px groove black;
+	border-radius: 10px;
+}
+.link {
+	text-decoration: none;
+	color: #000000;
+}
+h1 {
+	font-family: 'Balsamiq Sans', cursive;
+	text-align: center;
+}
